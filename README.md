@@ -1,6 +1,6 @@
 # Laracon 2021
 
-* [Asynchronous Larave](async_laravel.md)
+* [Asynchronous Laravel](async_laravel.md)
 * [Bugfixing Your Career](bugfixing_your_career.md)
 * [Laravel Update](laravel_update.md)
 * [Learning in Public](learning_public.md)
